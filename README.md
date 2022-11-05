@@ -8,5 +8,6 @@
 一つの参考値として活用いただければ幸いです。  
 
 # エンジニアスキルマップ
-![スキルマップ](./skillmap.drawio.svg)
+[拡大表示](https://raw.githubusercontent.com/muff1225/engineering-skillmap-jp/main/skillmap.drawio.svg)  
 
+![スキルマップ](./skillmap.drawio.svg)
